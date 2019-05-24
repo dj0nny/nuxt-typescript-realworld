@@ -19,6 +19,22 @@ For more information on how to this works with other frontends/backends, head ov
 
 > Describe the general architecture of your app here
 
+# Todos
+
+* [x] Project setup
+* [x] Add pages and layouts
+* [ ] Setup store and axios
+* [ ] Fetch global articles
+* [ ] Fetch tags
+* [ ] Pagination
+* [ ] Register / Login
+* [ ] Profile page
+* [ ] Settings page
+* [ ] Create / edit articles
+* [ ] Comments
+* [ ] Testing
+* [ ] Deploy
+
 # Getting started
 
 ```bash
