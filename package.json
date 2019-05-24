@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-typescript-realworld",
+  "version": "1.0.0",
+  "description": "Nuxt.js-Typescript implementation of Realworld app",
+  "author": "Dj0nny",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "ts-node": "^8.1.0",
+    "vue-property-decorator": "^8.1.1"
+  },
+  "devDependencies": {
+    "@nuxt/typescript": "^2.7.1",
+    "nodemon": "^1.18.9"
+  }
+}
