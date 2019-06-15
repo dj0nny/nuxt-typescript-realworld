@@ -7,7 +7,7 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component } from 'vue-property-decorator';
+import { Vue, Component } from 'nuxt-property-decorator';
 
 import Navbar from '@/components/Navbar.vue';
 import Footer from '@/components/Footer.vue';
@@ -18,6 +18,6 @@ import Footer from '@/components/Footer.vue';
     Footer
   }
 })
-export default class Default extends Vue { }
+export default class extends Vue { }
 </script>
 

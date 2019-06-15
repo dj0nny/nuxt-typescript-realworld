@@ -8,3 +8,10 @@
     </div>
   </footer>
 </template>
+
+
+<script lang="ts">
+import { Vue, Component } from 'nuxt-property-decorator';
+
+export default class Footer extends Vue { }
+</script>

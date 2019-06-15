@@ -24,3 +24,9 @@
     </div>
   </nav>
 </template>
+
+<script lang="ts">
+import { Vue, Component } from 'nuxt-property-decorator';
+
+export default class Header extends Vue { }
+</script>
