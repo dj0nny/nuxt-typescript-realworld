@@ -24,7 +24,7 @@ For more information on how to this works with other frontends/backends, head ov
 * [x] Project setup
 * [x] Add pages and layouts
 * [x] Setup store and axios
-* [ ] Setup vuex store modules
+* [ ] [Setup vuex store modules](https://github.com/dj0nny/nuxt-typescript-realworld/issues/1)
 * [ ] Fetch global articles
 * [ ] Fetch tags
 * [ ] Pagination
